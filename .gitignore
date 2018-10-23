@@ -111,6 +111,7 @@ dmypy.json
 
 # large data files
 data/athlete_events.csv
+data/2008.csv.bz2
 
 # solutions
 *_solution.ipynb
